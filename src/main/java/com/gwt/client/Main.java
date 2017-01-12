@@ -28,7 +28,6 @@ public class Main implements EntryPoint {
 		  panel.add(image);
 		  panel.add(label);
 
-	      RootPanel.get("gwtContainer").add(panel);
-	
-}
+	          RootPanel.get("gwtContainer").add(panel);
+   }
 }
